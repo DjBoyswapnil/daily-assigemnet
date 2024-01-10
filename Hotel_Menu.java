@@ -13,7 +13,7 @@ public class Hotel_Menu {
 		String Item_ord="";
 		@SuppressWarnings("resource")
 		Scanner sc=new Scanner(System.in);
-		System.out.println("Welcome to Priti's Hotel");
+		System.out.println("Welcome to Sumishankar's Hotel");
 		do
 		{
 			System.out.println("1:Starters\n2:Main Course\n3:Deserts\n4:Drink");
